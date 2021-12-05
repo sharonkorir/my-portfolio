@@ -6,6 +6,7 @@
 }
 body{
   background-color: rgb(162, 145, 189);
+  background-image: url(../assets/background.jpg);
 }
 h1{
   text-align: center;
