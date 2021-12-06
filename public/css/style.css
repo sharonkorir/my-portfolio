@@ -2,6 +2,9 @@ body{
   background-color: rgb(120, 122, 119);
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(../../assets/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .sidebar {
   width: 300px;
