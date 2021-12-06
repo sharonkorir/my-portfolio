@@ -11,4 +11,5 @@ This is a webpage showing a portfolio. The portfolio will let you know a little 
 https://sharonkorir.github.io/my-portfolio/
 
 ### License
+https://choosealicense.com/licenses/mit/
 Copyright (c) 2021 **Sharon Korir** 
